@@ -1,6 +1,7 @@
 ---
-title: Artificial Intelligence - Uncertain Temporal Reasoning in the frameworks of Constraint Programming and Fuzzy Logics
+title: Artificial Intelligence
 layout: default
+banner: "/assets/images/banners/home.jpeg"
 ---
 
 ## Artificial Intelligence - Uncertain Temporal Reasoning in the frameworks of Constraint Programming and Fuzzy Logics

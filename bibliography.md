@@ -1,6 +1,7 @@
 ---
 title: Marco Falda’s publications
 layout: default
+banner: "/assets/images/banners/home.jpeg"
 ---
 
 ## Bibliography

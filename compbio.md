@@ -1,6 +1,7 @@
 ---
-title: Computational Biology - Genomics and Proteomics
+title: Computational Biology
 layout: default
+banner: "/assets/images/banners/home.jpeg"
 ---
 
 ## Computational Biology - Genomics and Proteomics

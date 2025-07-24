@@ -6,4 +6,6 @@ Source code for a home page to be hosted in Github.
 1. clone the repository;
 2. enter in the cloned directory;
 3. install needed packages with `bundle install`;
-4. start the dev webserver with `bundle exec jekyll serve --incremental`.
+4. start the dev webserver with `bundle exec jekyll serve`.
+
+To clean the cache use `bundle exec jekyll clean`.
