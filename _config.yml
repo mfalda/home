@@ -22,10 +22,8 @@ title: Marco Falda's homepage
 email: marco.falda@unipd.it
 description: >- # this means to ignore newlines until "baseurl:"
   Personal page of Marco Falda <a href="./">Home</a>
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://mfalda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+github_username:  mfalda
 
 # Build settings
 theme: jekyll-theme-slate
